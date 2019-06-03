@@ -1,0 +1,25 @@
+{
+  "name": "webpack-demo-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "## \"What is Webpack?\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walkercole/webpack-demo-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walkercole/webpack-demo-app/issues"
+  },
+  "homepage": "https://github.com/walkercole/webpack-demo-app#readme",
+  "devDependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  }
+}
